@@ -20,6 +20,6 @@ This project uses the Gradle build system. You don't need an IDE to build and ex
     * Add a *Specific instrumentation runner*: `androidx.test.runner.AndroidJUnitRunner`
 1. Run the newly created configuration
 
-The application will be started on the device/emulator and a series of actions will be performed automatically.
+The application will be started on the device/emulator and a series of actgit initions will be performed automatically.
 
 If you are using Android Studio, the *Run* window will show the test results.
